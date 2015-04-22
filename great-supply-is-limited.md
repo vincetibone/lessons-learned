@@ -4,4 +4,4 @@
 *If asking to build a simple app, still insist on a team that can iterate quickly. They will be pricier, but will save time and headaches.
 
 http://venturebeat.com/2015/04/05/data-best-programming-talent-in-the-world-is-not-in-california/
-![Alt Text](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0CAcQjRw&url=http%3A%2F%2Ftheycallmeswift.com%2F2013%2F03%2F05%2Fthings-the-learn-to-code-movement-needs-to-learn-from-hackathons%2F&ei=QSw4VdidJNOXavzMgKAF&bvm=bv.91427555,d.aWw&psig=AFQjCNF4X8F0XzVzuO6gexwVJ_N9ELpKww&ust=1429831096197602)
+![Graph](http://theycallmeswift.com/img/supply-demand-programmers.png)
