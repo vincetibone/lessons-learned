@@ -25,5 +25,4 @@ These conversations will establish the specific type of work that needs to be do
 
 +https://www.scrumalliance.org/community/articles/2011/august/5-common-mistakes-we-make-writing-user-stories
 
-
-+![Cartoon]+! (http://plg.uwaterloo.ca/~migod/fun/dilbert-reqs.gif)
+![Cartoon] (http://plg.uwaterloo.ca/~migod/fun/dilbert-reqs.gif)
